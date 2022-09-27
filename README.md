@@ -1,4 +1,7 @@
-<h1 align="center">name = "İrem" print(f"Hello World! I'm {name}" ✌🏻</h1>
+<h1 align="left"> name = "İrem" 
+
+print(f"Hello World! I'm {name}" ✌🏻 </h1>
+      
 <h3 align="center">⚡️ A curious and hardworking Python programmer aspirant ⚡️</h3>
 
 - 🌱 I’m currently learning **Python**
