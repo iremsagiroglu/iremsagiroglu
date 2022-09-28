@@ -1,6 +1,6 @@
 <h1 align="left"> name = "İrem" 
 
-print(f"Hello World! I'm {name}" ✌🏻 </h1>
+print(f"Hello World! I'm {name}") ✌🏻 </h1>
       
 <h3 align="center">⚡️ A curious and hardworking Python programmer aspirant ⚡️</h3>
 
