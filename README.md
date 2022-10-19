@@ -6,7 +6,7 @@ print(f"Hello World! I'm {name}") ✌🏻 </h1>
 
 - 🌱 I’m currently learning **Python**
 
-- 🧠 I want to work in the fields of **ML and AI 🤖**
+- 🧠 I want to work in the field of **data analysis🤖**
 
 - ⚡ Interesting fact **I'm a psychologist, who decided to become software developer 🖖🏼**
 
