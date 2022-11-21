@@ -8,7 +8,7 @@
  ```python
   class WhoAmI:
     user = 'İrem Sağıroğlu'
-    label = 'A curious and hardworking junior data analyst'
+    label = 'Curious and hardworking junior data analyst'
     currently_learning = 'SQL'
     fun_fact = "My favorite food is green beans"
 	hobbies = [
