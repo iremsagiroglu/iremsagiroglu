@@ -8,8 +8,8 @@
  ```python
   class WhoAmI:
     user = 'İrem Sağıroğlu'
-    label = 'Curious and hardworking junior data analyst'
-    currently_learning = 'SQL'
+    label = 'Curious and hardworking Junior Python Developer'
+    currently_learning = 'MongoDB'
     fun_fact = "My favorite food is green beans"
 	hobbies = [
 				'Camping',
