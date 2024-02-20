@@ -1,27 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" alt="animated" />
-</p>
-
-
-## Who am I?
-
- ```python
-  class WhoAmI:
-    user = 'İrem Sağıroğlu'
-    label = 'Curious and hardworking Junior Python Developer'
-    fun_fact = "My favorite food is green beans"
-	hobbies = [
-				'Camping',
-                         'Trekking',
-			 	'Fitness',
-			]
-	
-	def getCity():
-		return Izmir_Turkey()
-	
- ```
-      
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
